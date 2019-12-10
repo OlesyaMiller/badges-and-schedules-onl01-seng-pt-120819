@@ -15,3 +15,5 @@ def printer(speakers)
   batch_badge_creator(speakers).each { |element| puts element  }
   assign_rooms(speakers).each { |element| puts element }
 end
+
+
